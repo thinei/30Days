@@ -1,6 +1,9 @@
 import { StyleSheet } from 'react-native'
 
 export default StyleSheet.create({
+  appContainer: {
+	backgroundColor:"#C0C0C0"
+  }
   mainContainer: {
     backgroundColor: '#fff'
   },
